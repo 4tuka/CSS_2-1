@@ -1,0 +1,105 @@
+header {
+   margin-left: 80px ;
+   margin-top: 20px;
+}
+
+
+#good {
+    display: inline-block;
+    margin-right: 200px;
+}
+
+#bad {
+    display: inline-block;
+}
+
+#well {
+    display: inline-block;
+    margin-left: 200px;
+}
+
+#cls {
+   margin-left: 20px; 
+}
+
+#bmw {
+    margin-left: 20px;
+}
+
+#genius {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#mercedes {
+    margin-left: 20px;
+}
+
+#well {
+    color: #AC00FF;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+    padding: 8px 16px;
+}
+
+#vision {
+    color: black;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 74px;
+    width: 702px;
+    height: 148px;
+    margin-top: 76px;
+    margin-left: 214px;
+    margin-right: 206px;
+}
+
+#money {
+    color: #323232;
+    font-size: 24px;
+    font-weight: 400;
+    margin-left: 214px;
+    margin-right: 866px;
+    width: 841px;
+    height: 64px;
+}
+
+#join {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 214px;
+    width: 204px;
+    padding: 16px 24px;
+    border-radius: 8px;
+    background: #5C3BAE;
+    vertical-align: middle;
+}
+
+#group { 
+    color: #4D3491;
+    width: 32.013px;
+    height: 32.013px;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#video {
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    margin-right: 1285px;
+    margin-left: 12px;
+    margin-bottom: 646px;
+    display: inline;
+    vertical-align: middle;
+}
+
+#cards {
+   margin-left: 800px;
+}
